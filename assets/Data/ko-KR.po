@@ -1,0 +1,114 @@
+msgid "label"
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"MIME-Version: 1.0\n"
+"Language: ko-KR\n"
+"Language-Team: CocosCreator\n"
+"Last-Translator: cocosCreator\n"
+"PO-Revision-Date: Fri, 01 Mar 2024 23:14:13 GMT\n"
+"POT-Creation-Date: Fri, 01 Mar 2024 23:14:13 GMT\n"
+"Plural-Forms: \n"
+"Project-Id-Version: \n"
+
+#: b99e1MbaShCQp8vOh53JRur
+msgid "AUDIO SETTINGS"
+msgstr "AUDIO SETTINGS"
+
+#: af770YwbA9DHIFLMvRKeXki
+msgid "Sound voume"
+msgstr "Sound voume"
+
+#: 7a794UYsIxMV7zVigLuS6W+
+msgid "Music voume"
+msgstr "Music voume"
+
+#: 58ae0y1W8NLoL7qwtl+ps21
+msgid "OK"
+msgstr "OK"
+
+#: 82da6I40vJKfpmQCkxp4nqc
+msgid "Increase health"
+msgstr "Increase health"
+
+#: eacebV+T0xMWr6u4yRd4kmZ
+msgid "Increase healthwefwef uiopup"
+msgstr "Increase healthwefwef uiopup"
+
+#: 864d1YMYIZJ1ZD2tJQ0ggkE
+msgid "Regeneration health"
+msgstr "Regeneration health"
+
+#: 5f7f3Fpji1M07vBv/HFdX5G
+msgid "Increase healthwefwef r678g uiouiouiouio"
+msgstr "Increase healthwefwef r678g uiouiouiouio"
+
+#: de289XXq/ZE+ZttRXnGm68T
+msgid "PAUSE"
+msgstr "PAUSE"
+
+#: 5c48cUgFJpBmLx1ej6r57+q
+msgid "Settings"
+msgstr "Settings"
+
+#: 49fb69irnpFM4HPpB6bI2G0
+msgid "Exit"
+msgstr "Exit"
+
+#: 39de1jDRdFHKKKeBH7Dg5tK
+msgid "Continue"
+msgstr "Continue"
+
+#: e09be+zxX5NQZlQ+pONgWA4
+msgid "Pause"
+msgstr "Pause"
+
+#: 0e5b7f2fIZORL9IW3p6EUQf
+msgid ""
+"Label \n"
+"123"
+msgstr "Label "
+
+#: 1416bGMwZVPmY2oIhvhGjDi
+msgid "label 123456 88 444 456456t rty rt et 456 4 7897878978989789"
+msgstr "label 123456 88 444 456456t rty rt et 456 4 7897878978989789"
+
+#: 620b33L+MZCjoOGhmoFBB1V
+msgid "Max level"
+msgstr "Max level"
+
+#: 6f935QoKlVCobqInCGPshxH
+msgid "30"
+msgstr "30"
+
+#: 76cdboHluJGJqNXD+u2oGI3
+msgid "UPGRADES"
+msgstr "UPGRADES"
+
+#: a897cPJrpxO6pusvM501Zmw
+msgid "13"
+msgstr "13"
+
+#: b80b6qzNSNNgLOvPB/VVWNo
+msgid "||"
+msgstr "||"
+
+#: a4582DRq1hHirr6tUDuy1bw
+msgid "0"
+msgstr "0"
+
+#: bb444/d2UpPOYFBOWb/ejtW
+msgid "Highscore: 0"
+msgstr "Highscore: 0"
+
+#: c085bXW+vNFf5VzFRhCj7Vo
+msgid "Play"
+msgstr "Play"
+
+#: 6e2f7U1bLlKP53uWBtRIObi
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: c06f7tg3SdHGYQyShO2p/ZT
+msgid "Audio Settings"
+msgstr "Audio Settings"
